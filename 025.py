@@ -6,8 +6,6 @@ https://www.youtube.com/watch?v=3vbHTi6sID0
     math.ceil((d - 1 + math.log10(math.sqrt(5))) / math.log10(phi))
 '''
 
-import math
-
 def fibonacci_digits(d):
     a, b = 1, 1   
     n = 2         
